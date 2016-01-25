@@ -1,6 +1,6 @@
 # Music-Decades-Top-100
 
-A sample analysis of music across decades using this dataset is described in the R Markdown file titled, “MusicDecades.Rmd”. The results are shown in the “MusicDecades.html” file. 
+A sample analysis of music across decades using this dataset is described in the R Markdown file titled, “MusicDecades.Rmd”. The results are shown in the “MusicDecades.pdf” file. 
 
 This README file consists of the following sections:
 

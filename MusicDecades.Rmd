@@ -1,8 +1,8 @@
 ---
-title: "An analysis of music hits across decades: 1950-2009"
+title: 'An analysis of music hits across decades: 1950-2009'
 author: "Naresh N. Vempala"
 date: "January 24, 2016"
-output: html_document
+output: pdf_document
 ---
 
 This is a dataset consisting of audio attributes for 600 songs. These are the top 100 hit songs from six decades: 1950s, 1960s, 1970s, 1980s, 1990s, and 2000-2009. The data represents derived work collected from two sources - tsort.info/music/ and the Echo Nest database (http://the.echonest.com/). For more information about the dataset and its attributes, how the dataset was created, and how to use it (licensing and citation info), please refer to the README.md file.
@@ -10,7 +10,7 @@ This is a dataset consisting of audio attributes for 600 songs. These are the to
 More information about song attributes is available here: http://runningwithdata.com/post/1321504427/danceability-and-energy
 http://developer.echonest.com/acoustic-attributes.html
 
-To replicate the results below in R, first download the dataset with the decades data tited "NVDecades.csv". Then make sure to set your working directory in R to the folder containing this dataset, or mention the full/absolute path of the file in the read.csv function.
+To replicate the results below in R, first download the dataset with the decades data titled "NVDecades.csv". Then make sure to set your working directory in R to the folder containing this dataset, or mention the full/absolute path of the file in the read.csv function.
 
 Import the dataset into your working directory:
 ```{r}
