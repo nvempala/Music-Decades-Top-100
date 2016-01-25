@@ -17,7 +17,10 @@ tsort.info is a comprehensive site that uses 130 music charts as its sources for
 Please refer to the license.txt file for more information on using this dataset. This dataset is made available by Naresh N. Vempala under a Creative Commons Attribution 4.0 License for free use and distribution. For any commercial use, please consult tsort.info and the Echo Nest. 
 
 II - CITATION INFORMATION:
-Please cite Naresh N. Vempala using the DOI for this project, when using the dataset for your analyses and/or publications.
+When using the dataset for your analyses and/or publications, please cite Naresh N. Vempala using the DOI: 10.5281/zenodo.45172
+
+Change the following citation appropriately depending on journal or conference proceedings:
+Naresh N. Vempala. (2016). Music-Decades-Top-100: Music-hits-top100. Zenodo. 10.5281/zenodo.45172
 
 
 III - DESCRIPTION OF THE DATASET:
