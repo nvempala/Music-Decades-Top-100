@@ -1,1 +1,10 @@
 Music-Decades-Top-100 by Naresh N. Vempala is licensed under the Creative Commons Attribution 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/.
+
+Music-Decades-Top-100 is a derived work that uses data, specifically the top 100 hit songs for the decades 1950s, 1960s, 1970s, 1980s, 1990s, and 2000-2009 from Steve Hawtin et al., © 2007-15, available at tsort.info/music/ (version 2.5.0015). Audio attributes for each song were collected from the Echo Nest (http://the.echonest.com/)
+
+For licensing information related to commercial use of this data, please consult tsort.info and the Echo Nest.
+
+When using the dataset for your analyses and/or publications, please cite Naresh N. Vempala using the DOI for this project.
+
+
+
