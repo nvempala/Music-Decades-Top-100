@@ -180,7 +180,7 @@ dat90s <- datNew[which(datNew$decade=='1990s'),]
 dat90sTopdance <- head(arrange(dat90s, desc(danceability)), n = 5)
 dat90sTopdance[, c(3,18,19,17)]
 ```
-(SOME COMMENTARY HERE)
+
 
 Finally, what are the 5 most danceable songs from the 2000's?
 ```{r}
